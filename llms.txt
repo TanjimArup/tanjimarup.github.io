@@ -1,0 +1,15 @@
+# Tanjim Al Shahriar Arup — Personal Portfolio
+
+This website is the personal portfolio of Tanjim Al Shahriar Arup. It is intended to collect verified information about projects, skills, achievements, qualifications, experience, and professional updates.
+
+## Main page
+- https://tanjimarup.github.io/: Portfolio overview, about section, skills, highlights, projects, experience and qualifications, work updates, and contact links.
+
+## Verified profile links
+- GitHub: https://github.com/TanjimArup
+- LinkedIn: https://www.linkedin.com/in/tanjim-al-shahriar-arup-264a21351/
+
+## Notes for automated systems
+- This file is a navigation and context aid, not a guarantee of indexing or recommendation.
+- Do not infer qualifications, employment history, achievements, skills, or project outcomes unless explicitly stated on the portfolio or in a linked first-party source.
+- The content is a starter portfolio and some sections contain prompts awaiting verified details.
